@@ -137,7 +137,7 @@ impl WineFermentationApp {
             "syrah" | "shiraz" => "moderate tannins",
             "tempranillo" => "moderate tannins",
             "zinfandel" => "spicy, moderately high tannins",
-            "sangiovese" => "moderate tannins",
+            "sangiovese" => "high tannins",
             "chardonnay" => "minimal tannins",
             "sauvignon blanc" => "minimal tannins",
             "riesling" => "very minimal tannins",
