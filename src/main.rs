@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 use csv::ReaderBuilder;
 use eframe::egui;
 use rand::rng;
